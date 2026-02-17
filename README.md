@@ -110,15 +110,6 @@ These tell very different stories. OLS is biased because the hidden crowding fac
 
 Our recommendation to CHN: the flexibility introduced in the policy may be diluting its effectiveness. Either return to stricter enforcement of the rule, or collect more data before drawing firm conclusions.
 
----
-
-## Repository Structure
-
-```
-.
-├── Regression_Discontinuity_Report.qmd   # Main report
-├── README.md
-```
 
 ---
 
